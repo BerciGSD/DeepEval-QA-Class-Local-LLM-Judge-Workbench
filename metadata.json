@@ -1,0 +1,6 @@
+{
+  "name": "DeepEval QA Masterclass & Local LLM Judge Workbench",
+  "description": "Zero-cost, local-first LLM evaluation curriculum and test harness for QA engineers transitioning into AI Quality Engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
